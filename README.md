@@ -1,6 +1,6 @@
 # flutter_tabs
 
-A new Flutter application.
+This repository is about implementing  both on top and bottom tabs in flutter 
 
 ## Getting Started
 
